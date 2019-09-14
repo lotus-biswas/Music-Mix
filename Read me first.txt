@@ -1,5 +1,7 @@
-// MUSIC MIX USING JAVA PROGRAMMING LANGUAGE //
+      // MUSIC MIX USING JAVA PROGRAMMING LANGUAGE //
 
+                 # Important Note #
+                 
 1) This is a simple program which can mix two or more songs together
  and it would generate the output result in a new mp3 file which will 
 contain the mix song of those input song.
